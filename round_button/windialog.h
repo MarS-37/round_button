@@ -29,4 +29,5 @@ private:
     QPushButton *closeButton;
 };
 
+
 #endif // DEMODIALOG_H
